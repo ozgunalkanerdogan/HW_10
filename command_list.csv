@@ -1,0 +1,220 @@
+    1  woami
+    2  whoiam
+    3  help
+    4  help cd
+    5  cls
+    6  pwd
+    7  cd
+    8  pwd
+    9  cd desktop
+   10  pwd
+   11  ls
+   12  dir
+   13  cd QA Tester Apps
+   14  cd "QA Tester Apps"
+   15   cd ..
+   16  pwd
+   17  clear
+   18  pwd
+   19  cd " QA Tester Apps"
+   20  cd "QA tester Apps"
+   21  touch goit.txt
+   22  pwd
+   23  ls
+   24  rm Dersler
+   25  pwd
+   26  rm Dersler
+   27  mkdir Dersler
+   28  pwd
+   29  ls
+   30  rm goit.txt
+   31  ls
+   32  rmdir Dersler
+   33  ls
+   34  clear
+   35  ping www.google.com
+   36  systeminfo
+   37  ipconfig
+   38  clear
+   39  git config --global user.name Özgün Alkan Erdoğan
+   40  git config --global user.name Ozgun
+   41  git config --global user.email webozgun@gmail.com
+   42  cd SQL
+   43  cd ..
+   44  cd ..
+   45  cd SQL
+   46  git init
+   47  git add .
+   48  git commit -m "First Version"
+   49  git remote add origin https://github.com/mokumus7/Goit.git
+   50  git push -u origin master
+   51  git branch
+   52  git branch ozgun
+   53  git branch
+   54  git branch erdogan
+   55  git branch
+   56  git checkout ozgun
+   57  clear
+   58  git checkout master
+   59  git commit -m "Master first commit"
+   60  git add.
+   61  git commit -m "Master first commit"
+   62  git checkout ozgun
+   63  git checkout erdogan
+   64  whoami
+   65  git merge ozgun
+   66  git merge erdogan
+   67  git checkout erdogan
+   68  git checkout master
+   69  git push
+   70  clear
+   71  git init
+   72  git remote add origin https://github.com/ozgunalkanerdogan/odev10.git
+   73  git remove remote origin
+   74  git --help
+   75  gi,t init
+   76  git init
+   77  git user.name
+   78  git clear
+   79  whoami
+   80  rm
+   81  git rm init
+   82  --help
+   83  git --help
+   84  cd
+   85  ls
+   86  pwd
+   87  ls SQL
+   88  cd SQL
+   89  cd Deskopt
+   90  cd Deskop
+   91  cd desktop
+   92  cd SQL
+   93  git innit
+   94  git init
+   95  clear
+   96  whoami
+   97  git branch ozgun
+   98  git branch erdogan
+   99  git add .
+  100  git commit -m "First Version"
+  101  git push[200~$ git push
+  102  git remote add origin https://github.com/ozgunalkanerdogan/odev10.git
+  103  git push -u origin master
+  104  git branch
+  105  git branch ozgun
+  106  git branch erdogan
+  107  git branch
+  108  git checkout ozgun
+  109  clear
+  110  git add.
+  111  git add .
+  112  git commit -m "Master first commit"
+  113  git checkout erdogan
+  114  git checkout master
+  115  git checkout ozgun
+  116  git commit -m "V1
+  117  clear
+  118  ...
+  119  "
+  120  git commit -m "v1"
+  121  git merge master
+  122  git merge ozgun
+  123  get checkout erdogan
+  124  git checkout erdogan
+  125  git checkout master
+  126  git merge ozgun
+  127  git push
+  128  git checkout erdogan
+  129  clear
+  130  get checkout ozgun
+  131  git checkout ozgun
+  132  git push
+  133  git push --set-upstream origin ozgun
+  134  git add .
+  135  git commit -m "Last Version"
+  136  git push
+  137  git merge master
+  138  git merge ozgun
+  139  git checkout erdogan
+  140  git merge ozgun
+  141  clear
+  142  git checkout erdogan
+  143  git checkout ozgun
+  144  git checkout master
+  145  git checkout erdogan
+  146  git add .
+  147  git checkout ozgun
+  148  git checkout erdogan
+  149  git add .
+  150  git checkout ozgun
+  151  git checkout mastger
+  152  git checkout master
+  153  git add .
+  154  git commit -m "v1"
+  155  git pull
+  156  clear
+  157  git clone https://github.com/ozgunalkanerdogan/HW_10.git
+  158  cd ..
+  159  git clone [200~
+  160  git clone 
+  161  clear
+  162  clear
+  163  pwd
+  164  clear
+  165  git clone https://github.com/ozgunalkanerdogan/HW_10.git
+  166  pwd
+  167  cd Ödev
+  168  cd HW_10
+  169  dir text_ignote.exe
+  170  touch text.ignote.txt
+  171  git status
+  172  git add .
+  173  git status
+  174  echo "text_ignore.txt" >> .gitignore
+  175  git status
+  176  git add .
+  177  git status
+  178  rm text.ignore.txt
+  179  git status
+  180  git add .
+  181  clear
+  182  git status
+  183  touch text_ignore.txt
+  184  echo "text_ignore.txt" >> .gitignore
+  185  git status
+  186  git status
+  187  git add .
+  188  git status
+  189  git commit 
+  190  pwd
+  191  git status
+  192  whoami
+  193  ls Ödev
+  194  cd Ödev
+  195  cd
+  196  pwd
+  197  cd Destkop
+  198  cd Desktop
+  199  cd Ödev
+  200  cd HW_10
+  201  git status
+  202  git commit -m "Task1"
+  203  touch _test.txt
+  204  git add .
+  205  git commit -m "Task2"
+  206  git branch develop
+  207  git branch
+  208  git checkout develop
+  209  touch develop_test.txt
+  210  git status
+  211  git add .
+  212  git commit -m "Task3"
+  213  git status
+  214  git add .
+  215  git commit -m "Task3"
+  216  git checkout main
+  217  git branch
+  218  git merge develop
+  219  git log
+  220  history > command_list.csv
